@@ -1,6 +1,7 @@
 Hello , Welcom to my github ! and that's enough 
 
 Hello every one can any one here meeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+this editing from the another email using command 
 
 hello  , i am in helwan university 
 <<<<<<< HEAD
